@@ -34,11 +34,14 @@ Converter has a [graphviz](https://graphviz.org/) dependency:
 - [Linux](https://graphviz.org/download/#linux)
 - [Mac](https://graphviz.org/download/#mac)
 
-## Generated webpage
+## Dynamic Clickable Diagram
 
 Now with SVG file in the same directory you will get an additional `page.html` file with `static` folder of 
 dependencies. You can open this page in your browser directly or run simple Python or any other web server to serve this page.
 
+## Video Demonstration
+
+Check out a demonstration, tutorial and use cases of this tool [here on YouTube](https://www.youtube.com/watch?v=SeFb1XfDo1Y)
 
 ## Examples
 
@@ -49,6 +52,3 @@ find source tables and generated results for the next schemas:
 
 ![demo](examples/demo/demo.svg)
 
-## Video Demonstration
-
-Check out a demonstration, tutorial and use cases of this tool [here on YouTube](https://www.youtube.com/watch?v=SeFb1XfDo1Y)
