@@ -48,3 +48,7 @@ find source tables and generated results for the next schemas:
 ![demo-simple](examples/demo-simple/demo-simple.svg)
 
 ![demo](examples/demo/demo.svg)
+
+## Video Demonstration
+
+Check out a demonstration, tutorial and use cases of this tool [here on YouTube](https://www.youtube.com/watch?v=SeFb1XfDo1Y)
