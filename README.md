@@ -41,7 +41,7 @@ dependencies. You can open this page in your browser directly or run simple Pyth
 
 ## Video Demonstration
 
-Check out a demonstration, tutorial and use cases of this tool [here on YouTube](https://www.youtube.com/watch?v=SeFb1XfDo1Y)
+Check out a demonstration, tutorial and use cases of this tool [here on YouTube](https://youtu.be/hiQkzT0qD-k)
 
 ## Examples
 
